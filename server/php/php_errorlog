@@ -1,0 +1,23 @@
+[26-Jun-2018 09:14:37 CST6CDT] PHP Notice:  Undefined index: fileUploaded in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/upload_wistia.php on line 3
+[26-Jun-2018 09:14:47 CST6CDT] PHP Notice:  Undefined index: fileUploaded in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/upload_wistia.php on line 3
+[26-Jun-2018 09:17:59 CST6CDT] PHP Notice:  Undefined index: fileUpload in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/upload_wistia.php on line 3
+[26-Jun-2018 09:23:04 CST6CDT] PHP Notice:  Undefined index: files in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/upload_wistia.php on line 3
+[26-Jun-2018 09:24:26 CST6CDT] PHP Notice:  Undefined index: files in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/upload_wistia.php on line 3
+[26-Jun-2018 09:29:33 CST6CDT] PHP Notice:  Undefined index: files in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/upload_wistia.php on line 3
+[26-Jun-2018 09:54:33 CST6CDT] PHP Notice:  Undefined property: UploadHandler::$fileName in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/index.php on line 18
+[26-Jun-2018 09:58:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to protected method UploadHandler::get_file_name_param() from context '' in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/index.php on line 18
+[26-Jun-2018 09:59:11 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot access protected property UploadHandler::$options in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/index.php on line 18
+[26-Jun-2018 10:00:38 CST6CDT] PHP Notice:  Array to string conversion in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/index.php on line 18
+[26-Jun-2018 10:02:31 CST6CDT] PHP Notice:  Undefined index: url in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/index.php on line 19
+[26-Jun-2018 10:03:13 CST6CDT] PHP Notice:  Undefined offset: 0 in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/index.php on line 19
+[26-Jun-2018 10:03:44 CST6CDT] PHP Notice:  Undefined offset: 0 in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/index.php on line 19
+[26-Jun-2018 10:04:12 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/luckydon/public_html/e1/jQuery-File-Upload-master/server/php/index.php on line 19

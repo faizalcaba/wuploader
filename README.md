@@ -9,3 +9,9 @@ js/wistia_uploader.component.js
 Files modified
 
 server/php/index.php
+
+Wistia Project link:
+
+https://faizal-caba.wistia.com/projects/kga82ciu72
+
+-----------Created by Faizal Caba----------------
